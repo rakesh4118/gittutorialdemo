@@ -2,8 +2,6 @@
 console.log(document.domain);
 console.log(document.URL);
 
-console.log(document.body)
-//document.title = "item344"
 
 console.log(document.all)
 console.log(document.all[10]
