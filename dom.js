@@ -4,7 +4,7 @@ console.log(document.URL);
 
 console.log(document.body)
 //document.title = "item344";
-console.log(document.doctype)
+
 console.log(document.all)
 console.log(document.all[10])*/
 var h = document.getElementById("header-title");
