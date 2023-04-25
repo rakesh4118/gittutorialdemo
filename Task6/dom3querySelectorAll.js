@@ -9,7 +9,7 @@ console.log(document.all)
 console.log(document.all[10]
 var items = document.getElementsByClassName("list-group-item");
 for(var i = 0;i < items.length;i++){
-    items[i].style.backgroundColor = "#f5f5f5";
+    items[i].style.backgroundColor = "#f5f5f5"
 }
 
 
