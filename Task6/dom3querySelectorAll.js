@@ -11,11 +11,7 @@ var items = document.getElementsByClassName("list-group-item");
 for(var i = 0;i < items.length;i++){
     items[i].style.backgroundColor = "#f5f5f5";
 }
-/*var li = document.getElementsByTagName("li")
-console.log(li);
-for(var i = 0;i<li.length;i++){
-    li[i].style.backgroundColor = "#f1f1f1";
-}*/
+
 
 // QUERY SELECTOR
 
