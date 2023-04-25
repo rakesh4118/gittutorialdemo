@@ -5,7 +5,6 @@ console.log(document.URL);
 
 console.log(document.all)
 console.log(document.all[10]
-var items = document.getElementsByClassName("list-group-item");
 
 
 
